@@ -1,4 +1,4 @@
-### **`𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽`**
+## **`𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽`**
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"></p>
 
@@ -8,7 +8,7 @@
 
 
 
-**`AIMLEngineer`**  **`BlockChain Development`**
+**`AIMLEngineer`** 🖥️ **`BlockChain Development`** ⛓️🔗
 --
 ##### < • `° • °- - _-`-_  `° `• -- _ _°• °- _ _ °` ° - -`• ° •` - _° • ° `• -_ _ • - ` °• ° • >
 
@@ -29,24 +29,29 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <br></br>
+
 <p align="center"> 
-   
-   ## 🧰 Languages and Tools
-   
+  
+  ### **`🧰 Languages and Tools`**
+  
    </p>
+
+   
 <p align="center">
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Solidity" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-<img align="left" alt="Ethereum" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="Ethereum" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" />
+<img align="left" alt="Solodity" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="KaliLinux" width="80px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" />
 <img align="left" alt="MongoDb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="KaliLinux" width="80px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" />
+          
 </p>
 
 <br></br>

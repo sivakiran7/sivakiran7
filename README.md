@@ -18,6 +18,11 @@
    
    ![](https://komarev.com/ghpvc/?username=sivakiran7&abbreviated=true) 
    </p>  
+   
+   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sivakiran__7/?hl=en)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siva-kiran-5b097a276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+   
+   
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
@@ -51,6 +56,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 <br><br>
+
 
 
 

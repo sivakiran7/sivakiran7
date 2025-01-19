@@ -12,7 +12,7 @@
 --
 ##### < • `° • °- - _-`-_  `° `• -- _ _°• °- _ _ °` ° - -`• ° •` - _° • ° `• -_ _ • - ` °• ° • >
 
-  ###### Hey, these is siva iam an Engineering student and majorly working under block chain and Aiml
+  #### Hey, these is siva iam an Engineering student and majorly working under block chain and Aiml
 
 <p align="right"> 
    

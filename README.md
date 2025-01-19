@@ -19,8 +19,9 @@
    ![](https://komarev.com/ghpvc/?username=sivakiran7&abbreviated=true) 
    </p>  
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+
 
 
 ## 🧰 Languages and Tools
@@ -47,10 +48,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=sivakiran7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakiran7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br></br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 <br><br>
 
 

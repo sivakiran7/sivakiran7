@@ -32,7 +32,7 @@
 
 <p align="center"> 
   
-  ### **`🧰 Languages and Tools`**
+  ### **`🧰 Languages, Tools and FrameWorks`**
   
    </p>
 
@@ -50,11 +50,26 @@
 <img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MongoDb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="KaliLinux" width="80px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" />
+<img align="left" alt="KaliLinux" width="75px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" />
           
-</p>
+</p></br>
 
 <br></br>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="60%">
+<br><br>
+
+<p align="left">
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakiran7&show_icons=true&locale=en&layout=compact" alt="sivakiran7" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=sivakiran7&show_icons=true&locale=en" alt="sivakiran7" />
+</p></br>
+
+
+
+
 
 
 

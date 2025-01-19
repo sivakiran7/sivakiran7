@@ -1,8 +1,7 @@
-# 👋Sivakiran
-
 **`AIML Engineer (BlockChain/Ethereum)`**
 --
-
+About Me
+   hey, these is siva iam an Engineering student and majorly working under block chain and Aiml
 
 ## 🧰 Languages and Tools
 <p align="center">
@@ -17,8 +16,6 @@
 <img align="left" alt="KaliLinux" width="46px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/kali-1.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-
-  
 </p>
 
 

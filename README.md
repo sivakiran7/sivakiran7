@@ -61,9 +61,12 @@
 <br><br>
 
 <p align="left">
+
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakiran7&show_icons=true&locale=en&layout=compact" alt="sivakiran7" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=sivakiran7&show_icons=true&locale=en" alt="sivakiran7" />
+![](https://github-readme-stats.vercel.app/api?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sivakiran7&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </p></br>
 
 

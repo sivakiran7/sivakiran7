@@ -1,10 +1,13 @@
-## **`𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽`**
+ **` 𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽 `**
+<div align="center">
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"></p>
 
 <p align="center"> 
   𝙷𝚒 𝚃𝚑𝚎𝚜𝚎 𝚒𝚜 𝚂𝚒𝚟𝚊𝙺𝚒𝚛𝚊𝚗 
 </p>
+
+</div>
 
 
 

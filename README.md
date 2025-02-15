@@ -64,7 +64,7 @@
 
 <br><br>
 
-<p align="left">
+<p align=right">
 
   
 ![](https://github-readme-stats.vercel.app/api?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)

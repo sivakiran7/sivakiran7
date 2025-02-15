@@ -1,4 +1,4 @@
-### **` 𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽 `**
+###  𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽 
 <div align="center">
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"></p>
@@ -11,14 +11,14 @@
 
 
 
-### **`AIMLEngineer`** 🖥️ **`BlockChain Development`** ⛓️🔗
+### AIMLEngineer 🖥️ BlockChain Development ⛓️🔗
 --
 
   <p>
    𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚜𝚎 𝚒𝚜 𝚜𝚒𝚟𝚊𝚔𝚒𝚛𝚊𝚗 𝚒𝚊𝚖 𝚊𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚋𝚕𝚘𝚌𝚔 𝚌𝚑𝚊𝚒𝚗 𝚝𝚎𝚌𝚑𝚘𝚗𝚘𝚕𝚘𝚐𝚢 𝚊𝚗𝚍 𝚖𝚢 𝚒𝚗𝚝𝚛𝚎𝚜𝚝𝚜 𝚊𝚛𝚎 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐.𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚜 𝚎𝚟𝚎𝚛𝚢 𝚍𝚊𝚢
   </p>
   
-##### < • `° • °- - _-`-_  `° `• -- _ _°• °- _ _ °` ° - -`• ° •` - _° • ° `• -_ _ • - ` °• ° • >
+#### < • `° • °- - _-`-_  `° `• -- _ _°• °- _ _ °` ° - -`• ° •` - _° • ° `• -_ _ • - ` °• ° • >
 
 <p align="right"> 
    
@@ -47,11 +47,11 @@
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Ethereum" width="50px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" />
-<img align="left" alt="Solodity" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+<img align="left" alt="Bash" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" />
+<img align="left" alt="Ethereum" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" />
+<img align="left" alt="Solodity" width="55px" style="padding-right:10px;"  src="https://img.icons8.com/?size=100&id=HOqGCOyHDbd4&format=png&color=000000" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Metasploit" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MongoDb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Kali linux" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />

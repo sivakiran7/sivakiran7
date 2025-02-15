@@ -53,7 +53,6 @@
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Metasploit" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="MongoDb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Kali linux" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
 <img align="left" alt="Debian" width="56px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000" />
           
@@ -63,7 +62,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="60%">
 <br><br>
 
 <p align="left">
@@ -74,6 +72,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </p></br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="60%">
 
 
 

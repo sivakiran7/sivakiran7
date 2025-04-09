@@ -11,7 +11,7 @@
 
 
 
-### AIMLEngineer 🖥️ BlockChain Development ⛓️🔗
+### AIMLEngineer 🖥️ generative Ai ⛓️🔗
 --
 
   <p>

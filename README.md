@@ -1,4 +1,4 @@
-###  𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽 
+![image](https://github.com/user-attachments/assets/8f23f07c-e9c4-4d10-ba6b-6a22fcc0a3f7)###  𝖠𝗌𝗌𝖺𝗌𝗌𝗂𝗇𝗌 𝖢𝗋𝖾𝖾𝖽 
 <div align="center">
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200"></p>
@@ -55,7 +55,7 @@
 <img align="left" alt="Debian" width="56px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000" />
 <img align="left" alt="Metasploit" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="pinecone" width="50px" style="padding-right:10px;" src=" https://cdn.brandfetch.io/idCLuo1dQ8/theme/light/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1718349245496" />
+  <img align="left" alt="pinecone" width="59px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" />
 
           
 </p></br>

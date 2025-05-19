@@ -55,6 +55,7 @@
 <img align="left" alt="Debian" width="56px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000" />
 <img align="left" alt="Metasploit" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="pinecone" width="50px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idCLuo1dQ8/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" />
 
           
 </p></br>

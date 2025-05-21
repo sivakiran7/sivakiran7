@@ -48,11 +48,12 @@
 <img align="left" alt="Solodity" width="55px" style="padding-right:10px;"  src="https://img.icons8.com/?size=100&id=HOqGCOyHDbd4&format=png&color=000000" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Kali linux" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
-<img align="left" alt="Debian" width="56px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000" />
-<img align="left" alt="Metasploit" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
+ <img align="left" alt="Metasploit" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="langchain" width="59px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" />
 <img align="left" alt="cuda" width="59px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/nvidia-color.png" />
+<img align="left" alt="Debian" width="56px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000" />
+
 
           
 </p></br>

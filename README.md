@@ -46,6 +46,10 @@
 <img align="left" alt="Docker" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> 
 <img align="left" alt="Scikit learn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> 
+<img align="left" alt="My Sql" width="60px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mysql/original.svg" /> 
+<img align="left" alt="Pandas" width="60px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/pandas/original.svg" /> 
+<img align="left" alt="MongoDb" width="60px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/mongodb/original-wordmark.svg" /> 
+<img align="left" alt="AWS" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
  
 <img align="left" alt="langchain" width="59px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" />
 <img align="left" alt="Kali linux" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />

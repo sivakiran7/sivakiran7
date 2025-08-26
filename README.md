@@ -41,18 +41,14 @@
 <img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Bash" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" />
-<img align="left" alt="Ethereum" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=IhWBOFHtv6vx&format=png&color=000000" />
-<img align="left" alt="Solodity" width="55px" style="padding-right:10px;"  src="https://img.icons8.com/?size=100&id=HOqGCOyHDbd4&format=png&color=000000" />
 <img align="left" alt="Tensorflow" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Kali linux" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
- <img align="left" alt="Metasploit" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" />
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Pytorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="kubernetes" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" /> 
+<img align="left" alt="Scikit learn" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> 
+ 
 <img align="left" alt="langchain" width="59px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" />
-<img align="left" alt="cuda" width="59px" style="padding-right:10px;" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/nvidia-color.png" />
-<img align="left" alt="Debian" width="56px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=17838&format=png&color=000000" />
+<img align="left" alt="Kali linux" width="55px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
 
 
           

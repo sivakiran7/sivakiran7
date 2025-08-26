@@ -57,18 +57,21 @@
 
 
 
-<br><br>
 
-<p align=right">
+
+
 
   
-![](https://github-readme-stats.vercel.app/api?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sivakiran7&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </p></br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="60%">
+
+<br><br>
+
+![](https://github-readme-stats.vercel.app/api?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sivakiran7&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakiran7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
